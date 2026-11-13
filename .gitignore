@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+.tfstate.
+*.tfvars
+*.pem
+terraform.tfstate*
+.bash*
+.ssh/
+.terraform.d/
+.viminfo
